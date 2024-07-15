@@ -4,3 +4,5 @@ asyncio
 hachoir
 requests
 yt-dlp
+aiohttp
+ffmpeg-python
